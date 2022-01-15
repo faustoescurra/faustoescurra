@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos mis trabajos están disponibles en [https://www.cti.com.py/clientes](https://www.cti.com.py/clientes)
 
-- ✍🏼 Escribo y comparto códigos y herramientas con otros programadores [https://www.vidadelprogramador.com](https://www.vidadelprogramador.com)
+- ✍🏼 Escribo y comparto códigos y herramientas con otros programadores [https://www.cti.com.py](https://www.cti.com.py)
 
 - 📫 Cómo ponerse en contacto conmigo **faustoescurra@gmail.com**
 
