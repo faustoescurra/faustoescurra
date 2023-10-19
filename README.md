@@ -1,5 +1,5 @@
 <h1 align="left">¡Hola! Soy @faustoescurra 👋</h1>
-<h3 align="left">Aprendedor y Emprendedor. Full Stack Developer con más de 8 años de experiencia. (SQL, HTML, CSS, PHP, JavaScript, Laravel, Vue.js, Express.js)</h3>
+<h3 align="left">Aprendedor y Emprendedor. Full Stack Developer con más de 10 años de experiencia.</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/faustoescurra" target="blank">
